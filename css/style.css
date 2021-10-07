@@ -1,0 +1,82 @@
+section {
+    padding: 60px 0px;
+}
+
+.showcase-img {
+    background-size: cover;
+    background-position: center;
+}
+
+.showcase-text {
+    padding: 50px;
+}
+
+.showcase {
+    padding: 0;
+}
+
+
+
+#our-team-img {
+    height: 200px;
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+
+.footer {
+    height: 180px;
+    padding: 60px 0;
+}
+
+
+
+
+.container-sign-up {
+    height: 250px;
+   
+}
+
+/* #email {
+    width: 600px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+#submit {
+    width: 200px;
+    height: 40px;
+    background-color: rgba(4, 131, 216, 0.952);
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+   
+} */
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+    .service-item {
+        margin-bottom: 50px;
+    }
+
+    .service-item:last-child {
+        margin-bottom: 0px;
+    }
+
+    .showcase-img {
+        height: 300px;
+    }
+
+    .our-team-item {
+        margin-bottom: 80px;
+    }
+}
